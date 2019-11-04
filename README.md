@@ -1,4 +1,4 @@
-# flutter_app_devfest_demo
+# flutter_app_with_firebase
 
 A new Flutter application.
 
@@ -14,3 +14,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+## Firebase 
+You will required to use your own Firebase account and create the google-services.json file from a Firebase project and add it to the Android Project and GoogleService-Info.plist on iOS
